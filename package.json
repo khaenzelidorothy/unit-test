@@ -1,0 +1,20 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaenzelidorothy/unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaenzelidorothy/unit-test/issues"
+  },
+  "homepage": "https://github.com/khaenzelidorothy/unit-test#readme"
+}
